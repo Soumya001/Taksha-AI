@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" fill="none">
+  <!-- Background -->
+  <rect width="1200" height="630" fill="#040b14"/>
+
+  <!-- Grid dots pattern -->
+  <pattern id="dots" x="0" y="0" width="40" height="40" patternUnits="userSpaceOnUse">
+    <circle cx="20" cy="20" r="1" fill="#00ff87" fill-opacity="0.07"/>
+  </pattern>
+  <rect width="1200" height="630" fill="url(#dots)"/>
+
+  <!-- Ambient glow blobs -->
+  <ellipse cx="200" cy="180" rx="340" ry="240" fill="#00ff87" fill-opacity="0.04"/>
+  <ellipse cx="1000" cy="460" rx="300" ry="200" fill="#60a5fa" fill-opacity="0.05"/>
+  <ellipse cx="700" cy="100" rx="200" ry="140" fill="#f59e0b" fill-opacity="0.03"/>
+
+  <!-- Left decorative card -->
+  <rect x="60" y="180" width="280" height="170" rx="16" fill="#080f1e" stroke="#00ff8722" stroke-width="1"/>
+  <text x="80" y="220" font-family="monospace" font-size="11" fill="#00ff87" fill-opacity="0.6" letter-spacing="2">ALGEBRA · QUADRATICS</text>
+  <text x="80" y="248" font-family="serif" font-size="22" fill="#f1f5f9" font-weight="700">x² − 5x + 6 = 0</text>
+  <rect x="80" y="265" width="220" height="1" fill="#00ff8715"/>
+  <text x="80" y="292" font-family="monospace" font-size="13" fill="#00ff87">(x − 2)(x − 3) = 0</text>
+  <text x="80" y="316" font-family="monospace" font-size="13" fill="#4a8a68">x = 2  or  x = 3  ✓</text>
+  <!-- Solved badge -->
+  <rect x="80" y="330" width="68" height="16" rx="4" fill="#00ff8715" stroke="#00ff8730" stroke-width="1"/>
+  <text x="90" y="342" font-family="monospace" font-size="9" fill="#00ff87">✓ solved</text>
+
+  <!-- Right decorative card -->
+  <rect x="860" y="200" width="280" height="150" rx="16" fill="#080f1e" stroke="#60a5fa22" stroke-width="1"/>
+  <text x="880" y="238" font-family="monospace" font-size="11" fill="#60a5fa" fill-opacity="0.6" letter-spacing="2">CALCULUS · DERIVATIVES</text>
+  <text x="880" y="264" font-family="serif" font-size="20" fill="#f1f5f9" font-weight="700">f(x) = x³ + 2x</text>
+  <rect x="880" y="278" width="220" height="1" fill="#60a5fa15"/>
+  <text x="880" y="304" font-family="monospace" font-size="13" fill="#60a5fa">f′(x) = 3x² + 2</text>
+  <circle cx="1120" cy="330" r="5" fill="#60a5fa" fill-opacity="0.5"/>
+
+  <!-- Center main content -->
+  <!-- Logo -->
+  <rect x="550" y="140" width="100" height="100" rx="22" fill="#040b14" stroke="#00ff8735" stroke-width="1.5"/>
+  <circle cx="600" cy="190" r="38" stroke="#00ff87" stroke-width="1.5" stroke-opacity="0.2"/>
+  <rect x="572" y="172" width="56" height="10" rx="5" fill="#00ff87"/>
+  <rect x="594" y="172" width="12" height="50" rx="5" fill="#00ff87"/>
+  <circle cx="622" cy="212" r="4.5" fill="#00ff87" fill-opacity="0.65"/>
+
+  <!-- Brand name -->
+  <text x="600" y="295" font-family="'Syne', Arial Black, sans-serif" font-size="72" font-weight="900" fill="#f1f5f9" text-anchor="middle" letter-spacing="-3">Taksha</text>
+  <text x="600" y="295" font-family="'Syne', Arial Black, sans-serif" font-size="72" font-weight="900" fill="#f1f5f9" text-anchor="middle" letter-spacing="-3">
+    <tspan fill="#f1f5f9">Taksha </tspan><tspan fill="#00ff87">AI</tspan>
+  </text>
+
+  <!-- Tagline -->
+  <text x="600" y="345" font-family="monospace" font-size="20" fill="#4a6080" text-anchor="middle" letter-spacing="1">Your AI-Powered Math Tutor</text>
+
+  <!-- Style pills -->
+  <rect x="390" y="375" width="120" height="34" rx="17" fill="#00ff8712" stroke="#00ff8735" stroke-width="1"/>
+  <text x="450" y="397" font-family="monospace" font-size="13" fill="#00ff87" text-anchor="middle">📐 Step-by-Step</text>
+
+  <rect x="524" y="375" width="100" height="34" rx="17" fill="#60a5fa12" stroke="#60a5fa35" stroke-width="1"/>
+  <text x="574" y="397" font-family="monospace" font-size="13" fill="#60a5fa" text-anchor="middle">💬 Friendly</text>
+
+  <rect x="638" y="375" width="98" height="34" rx="17" fill="#f59e0b12" stroke="#f59e0b35" stroke-width="1"/>
+  <text x="687" y="397" font-family="monospace" font-size="13" fill="#f59e0b" text-anchor="middle">🧠 Socratic</text>
+
+  <!-- Supported boards -->
+  <text x="600" y="468" font-family="monospace" font-size="13" fill="#1e3a5f" text-anchor="middle" letter-spacing="1">CBSE · ICSE · IB · A-LEVELS · SAT · JEE · NEET</text>
+
+  <!-- Bottom bar -->
+  <rect x="0" y="590" width="1200" height="40" fill="#060d18"/>
+  <text x="600" y="614" font-family="monospace" font-size="12" fill="#1e3a5f" text-anchor="middle" letter-spacing="1.5">taksha.xyz  ·  Free · No Login · Instant Help</text>
+
+  <!-- Decorative math symbols floating -->
+  <text x="100" y="520" font-family="serif" font-size="28" fill="#00ff87" fill-opacity="0.08">∫</text>
+  <text x="140" y="490" font-family="serif" font-size="22" fill="#60a5fa" fill-opacity="0.08">Σ</text>
+  <text x="1050" y="160" font-family="serif" font-size="30" fill="#f59e0b" fill-opacity="0.08">π</text>
+  <text x="1090" y="510" font-family="serif" font-size="26" fill="#00ff87" fill-opacity="0.08">√</text>
+  <text x="70" y="140" font-family="serif" font-size="24" fill="#60a5fa" fill-opacity="0.08">Δ</text>
+</svg>

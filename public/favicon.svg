@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <rect width="64" height="64" rx="14" fill="#040b14"/>
+  <!-- Outer glow ring -->
+  <circle cx="32" cy="32" r="28" stroke="#00ff87" stroke-width="1.2" stroke-opacity="0.25"/>
+  <!-- Inner accent ring -->
+  <circle cx="32" cy="32" r="22" stroke="#00ff87" stroke-width="0.6" stroke-opacity="0.12"/>
+  <!-- T letterform -->
+  <rect x="14" y="17" width="36" height="6" rx="3" fill="#00ff87"/>
+  <rect x="28.5" y="17" width="7" height="32" rx="3" fill="#00ff87"/>
+  <!-- Dot accent -->
+  <circle cx="48" cy="46" r="3" fill="#00ff87" fill-opacity="0.7"/>
+  <circle cx="16" cy="46" r="2" fill="#00ff87" fill-opacity="0.35"/>
+</svg>

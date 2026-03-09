@@ -1,0 +1,31 @@
+{
+  "name": "Taksha AI — Free Math Tutor",
+  "short_name": "Taksha AI",
+  "description": "AI-powered math tutor for all levels. Step-by-step explanations, CBSE, ICSE, IB, SAT, JEE support. Free, no login required.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#040b14",
+  "theme_color": "#00ff87",
+  "orientation": "any",
+  "categories": ["education", "productivity"],
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

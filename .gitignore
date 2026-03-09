@@ -1,0 +1,10 @@
+node_modules/
+dist/
+cache.db
+cache.db-shm
+cache.db-wal
+identity.json
+patches/
+.env
+.env.*
+*.log
