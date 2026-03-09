@@ -45,7 +45,7 @@ ollama pull llama3.1:8b        # science / humanities
 ## Setup
 
 ```bash
-git clone https://github.com/yourusername/taksha-ai.git
+git clone https://github.com/Soumya001/Taksha-AI.git
 cd taksha-ai
 npm install
 npm run build
@@ -88,6 +88,10 @@ The thought daemon runs as a separate process and autonomously:
 - Tracks a daily health score (% gold-quality answers)
 
 Every quality ≥ 7 insight is tunneled through 2 deeper reasoning passes before storage. Depth-3 insights crystallise into permanent core beliefs.
+
+## Documentation
+
+→ [Full Technical Whitepaper](WHITEPAPER.md) — architecture, brain tunnel, memory system, safety model, roadmap
 
 ## License
 
